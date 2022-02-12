@@ -1,5 +1,10 @@
+# 本项目将不再维护！
+一个更好的项目已经可以完全替代这个工具，且支持json形式的生成👇  
+https://github.com/lingrottin/MC-HEXColor-Gadient-Generator
+
 # MC-HEXColor-Gadient-Generator
 MC高版本16进制颜色渐变文字生成工具
+
 
 ## 下载
 https://github.com/Ltfjx/MC-HEXColor-Gadient-Generator/releases/
